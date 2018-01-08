@@ -1,5 +1,6 @@
 apply plugin: 'com.android.library'
-
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.wenchaoy.test'
 android {
     compileSdkVersion 26
 
